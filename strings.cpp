@@ -10,4 +10,9 @@ int main() {
     cout << name;
 
     strncpy(name, "asdfasdf", 2);
+
+
+    string a = "asdfasdf";
+
+    cout << a;
 }

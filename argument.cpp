@@ -9,7 +9,7 @@ int main(int argc, char **argv)
         cout << i << ": " << argv[i] << endl;
     }
 
-    short s = 650000;
+    int s = 650000;
 
 
     cout << s << endl;
